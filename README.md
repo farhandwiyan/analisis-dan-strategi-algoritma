@@ -1,2 +1,2 @@
-# analisi-strategi-dan-algoritma
+# Analisis dan Strategi Algoritma
 Praktikum dan Hackerank ASA
